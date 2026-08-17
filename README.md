@@ -1,6 +1,6 @@
-# 🍎 MacBook Pro M4 - Product Landing Page
+#  MacBook Pro M4 - Product Landing Page
 
-## 📌 Project Overview
+##  Project Overview
 
 This is a responsive Product Landing Page for the Apple MacBook Pro M4, developed as a Web Development Minor Project using HTML5, Tailwind CSS, and JavaScript.
 
@@ -8,7 +8,7 @@ The website features a clean Apple-inspired UI, responsive design, smooth animat
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Sticky Navigation Bar
 - Responsive Hero Section
@@ -27,7 +27,7 @@ The website features a clean Apple-inspired UI, responsive design, smooth animat
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - HTML5
 - Tailwind CSS (CDN)
@@ -36,7 +36,7 @@ The website features a clean Apple-inspired UI, responsive design, smooth animat
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 MacBook-Landing-Page/
@@ -49,7 +49,7 @@ MacBook-Landing-Page/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Download or clone the project.
 2. Open the project folder in Visual Studio Code.
@@ -59,7 +59,7 @@ MacBook-Landing-Page/
 
 ---
 
-## 📱 Responsive Design
+##  Responsive Design
 
 - Desktop
 - Tablet
@@ -67,7 +67,7 @@ MacBook-Landing-Page/
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Apeksha Randhave**
 
